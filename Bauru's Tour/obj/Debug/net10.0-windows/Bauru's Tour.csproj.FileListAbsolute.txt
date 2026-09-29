@@ -1,0 +1,18 @@
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Bauru's Tour.exe
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Bauru's Tour.deps.json
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Bauru's Tour.runtimeconfig.json
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Bauru's Tour.dll
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Bauru's Tour.pdb
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru_s_Tour.Form1.resources
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.csproj.GenerateResource.cache
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.AssemblyInfo.cs
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.sourcelink.json
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.dll
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\refint\Bauru's Tour.dll
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.pdb
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's Tour.genruntimeconfig.cache
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\ref\Bauru's Tour.dll
+C:\Users\Matheus\Documents\GitHub\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru's .A42875D3.Up2Date
