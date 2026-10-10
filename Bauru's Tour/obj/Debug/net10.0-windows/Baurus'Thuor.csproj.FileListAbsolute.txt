@@ -1,0 +1,29 @@
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.exe
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.deps.json
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.runtimeconfig.json
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfoInputs.cache
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfo.cs
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.csproj.CoreCompileInputs.cache
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\refint\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.genruntimeconfig.cache
+C:\Users\26110323\Desktop\Projeto final Baurus'Thuor\Baurus'Thuor\obj\Debug\net10.0-windows\ref\Baurus'Thuor.dll
+C:\Users\Matheus\Desktop\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.exe
+C:\Users\Matheus\Desktop\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.deps.json
+C:\Users\Matheus\Desktop\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.runtimeconfig.json
+C:\Users\Matheus\Desktop\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\Matheus\Desktop\Baurus'Thuor\bin\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\refint\Baurus'Thuor.dll
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\ref\Baurus'Thuor.dll
+C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'T.6061DE35.Up2Date
