@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "Nome": "Parque Vitória Régia",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Parque urbano com lago, áreas verdes e pista para caminhada, muito procurado para passeios em família, exercícios e momentos de descanso ao ar livre.",
     "Imagem": "",
     "Categoria": "Natureza",
     "Endereco": "Av. Nações Unidas, 25-25 - Jardim Brasil, Bauru",
@@ -11,7 +11,7 @@
   {
     "Id": 2,
     "Nome": "Jardim Botânico",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Grande área de vegetação preservada com trilhas, ideal para quem gosta de contato com a natureza, caminhadas e educação ambiental.",
     "Imagem": "",
     "Categoria": "Natureza",
     "Endereco": "Rod. Cmte. João Ribeiro de Barros, Tangaras, Bauru",
@@ -20,7 +20,7 @@
   {
     "Id": 3,
     "Nome": "Horto Florestal",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Espaço arborizado com trilhas e áreas de convivência, perfeito para caminhar, praticar esportes e aproveitar o ar puro em meio à mata.",
     "Imagem": "",
     "Categoria": "Natureza",
     "Endereco": "Av. Rodrigues Alves, 3825 - Jardim Guadalajara, Bauru",
@@ -29,7 +29,7 @@
   {
     "Id": 4,
     "Nome": "Bosque da Comunidade",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Bosque tranquilo e sombreado, próximo à região universitária, usado para caminhadas, lazer e encontros ao ar livre.",
     "Imagem": "",
     "Categoria": "Natureza",
     "Endereco": "R. Araújo Leite - Vila Universitaria, Bauru",
@@ -38,7 +38,7 @@
   {
     "Id": 5,
     "Nome": "Zoológico Municipal",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Um dos passeios mais tradicionais da cidade, com diversas espécies de animais em meio à vegetação. Ótima opção para crianças e famílias.",
     "Imagem": "",
     "Categoria": "Natureza",
     "Endereco": "Rod. Cmte. João Ribeiro de Barros, Vargem Limpa, Bauru",
@@ -47,7 +47,7 @@
   {
     "Id": 6,
     "Nome": "Praça da Paz",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Praça animada e arborizada, ponto de encontro com opções de alimentação, ideal para aproveitar o fim de tarde com amigos e família.",
     "Imagem": "",
     "Categoria": "Gastronomia",
     "Endereco": "R. Nicolau Assis, 6-41 - Jardim Panorama, Bauru",
@@ -56,7 +56,7 @@
   {
     "Id": 7,
     "Nome": "Flipper Lanches",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Lanchonete conhecida pelos lanches e pelo famoso sanduíche Bauru, prato típico que faz parte da identidade gastronômica da cidade.",
     "Imagem": "",
     "Categoria": "Gastronomia",
     "Endereco": "R. Henrique Savi, 12-40 - Vila Nova Cidade Universitaria, Bauru",
@@ -65,7 +65,7 @@
   {
     "Id": 8,
     "Nome": "Coisa Boa do Chef Moa",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Restaurante com pratos caseiros e preparados com carinho, em ambiente acolhedor, para quem busca uma refeição saborosa e despretensiosa.",
     "Imagem": "",
     "Categoria": "Gastronomia",
     "Endereco": "R. Monsenhor Claro, 12-64 - Vila Mesquita, Bauru",
@@ -74,7 +74,7 @@
   {
     "Id": 9,
     "Nome": "Agustina Parrilla e Bar",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Parrilla e bar inspirados na culinária argentina, com foco em carnes grelhadas e clima descontraído para jantares e encontros.",
     "Imagem": "",
     "Categoria": "Gastronomia",
     "Endereco": "Av. Comendador José da Silva Martha, Quadra 3-40 - Jardim Estoril, Bauru",
@@ -83,7 +83,7 @@
   {
     "Id": 10,
     "Nome": "Terrazzo Cucina",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Restaurante de culinária italiana localizado no Hotel Tulip Inn, com ambiente elegante e opções para almoços e jantares especiais.",
     "Imagem": "",
     "Categoria": "Gastronomia",
     "Endereco": "HOTEL TULIP INN - Rua Engenheiro Alpheu José Ribas Sampaio, 1-23 - Piso SUPERIOR SALA 01 - Jardim Infante Dom Henrique, Bauru",
@@ -92,7 +92,7 @@
   {
     "Id": 11,
     "Nome": "Dona Baunilha",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Confeitaria e cafeteria com doces, bolos e salgados, ótima para um café da tarde ou um momento de pausa para algo gostoso.",
     "Imagem": "",
     "Categoria": "Gastronomia",
     "Endereco": "Av. Comendador José da Silva Martha, 07-08 - Jardim Estoril, Bauru",
@@ -101,7 +101,7 @@
   {
     "Id": 12,
     "Nome": "Teatro Municipal de Bauru 'Celine Lourdes Alves Neves'",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Principal teatro da cidade, que recebe peças, espetáculos de dança, shows e eventos culturais, sendo um importante espaço das artes em Bauru.",
     "Imagem": "",
     "Categoria": "Lazer e Cultura",
     "Endereco": "Av. Nações Unidas, Quadra 8 - Centro, Bauru",
@@ -110,7 +110,7 @@
   {
     "Id": 13,
     "Nome": "Catedral do Divino Espírito Santo",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Igreja matriz localizada no centro da cidade, de arquitetura marcante e importante referência religiosa, histórica e cultural de Bauru.",
     "Imagem": "",
     "Categoria": "Lazer e Cultura",
     "Endereco": "Praça Rui Barbosa, 3-30 - Centro, Bauru",
@@ -119,7 +119,7 @@
   {
     "Id": 14,
     "Nome": "SESC Bauru",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Centro de lazer, esporte e cultura com atividades, exposições, apresentações e espaços de convivência para todas as idades.",
     "Imagem": "",
     "Categoria": "Lazer e Cultura",
     "Endereco": "Av. Aureliano Cardia, 6-71 - Vila Cardia, Bauru",
@@ -128,7 +128,7 @@
   {
     "Id": 15,
     "Nome": "Ginásio SESI Vôlei Paulo Skaf",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Ginásio esportivo voltado ao vôlei, que recebe jogos e eventos esportivos e é um ponto de encontro para os fãs da modalidade.",
     "Imagem": "",
     "Categoria": "Lazer e Cultura",
     "Endereco": "R. Profa. Zenita Alcântara Nogueira, 1-67 - Vila Triagem, Bauru",
@@ -137,7 +137,7 @@
   {
     "Id": 16,
     "Nome": "Estádio Alfredo de Castilho",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Tradicional estádio de futebol da cidade, casa de partidas locais e símbolo da paixão esportiva dos bauruenses.",
     "Imagem": "",
     "Categoria": "Lazer e Cultura",
     "Endereco": "Rua Wenceslau Braz - Vila Santa Terezinha, Bauru",
@@ -146,7 +146,7 @@
   {
     "Id": 17,
     "Nome": "Ginásio Panela de Pressão",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Ginásio poliesportivo famoso pela torcida calorosa em jogos de basquete e outros eventos, com atmosfera marcante.",
     "Imagem": "",
     "Categoria": "Lazer e Cultura",
     "Endereco": "R. Benedito Eleutério - Vila Industrial, Bauru",
@@ -155,7 +155,7 @@
   {
     "Id": 18,
     "Nome": "Calçadão da Batista",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Rua de pedestres no centro, com lojas, serviços e comércio popular, perfeita para passear e fazer compras a pé.",
     "Imagem": "",
     "Categoria": "Compras",
     "Endereco": "R. Batista de Carvalho - Centro, Bauru - SP, 17012-150",
@@ -164,7 +164,7 @@
   {
     "Id": 19,
     "Nome": "Bauru Shopping",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Shopping center com lojas, praça de alimentação, cinema e serviços, ótimo para compras e lazer em um só lugar.",
     "Imagem": "",
     "Categoria": "Compras",
     "Endereco": "R. Henrique Savi, 15 - 55 - Vila Nova Cidade Universitaria, Bauru",
@@ -173,7 +173,7 @@
   {
     "Id": 20,
     "Nome": "Boulevard Shopping",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Shopping moderno com variedade de lojas, alimentação e entretenimento, voltado para compras e passeios em família.",
     "Imagem": "",
     "Categoria": "Compras",
     "Endereco": "R. Marcondes Salgado, Quadra 11-39 - Chácara das Flores, Bauru",
@@ -182,7 +182,7 @@
   {
     "Id": 21,
     "Nome": "Alameda Rodoserv Center",
-    "Descricao": "Lorem ipsum dolor sit amet. Ea culpa sint ea omnis blanditiis ex inventore explicabo.",
+    "Descricao": "Centro comercial com lojas e serviços de fácil acesso, junto à rodovia, indicado para compras práticas e rápidas.",
     "Imagem": "",
     "Categoria": "Compras",
     "Endereco": "Rua Luís Levorato, Rod. Marechal Rondon, 1-55 - Jardim Marabá, Bauru",
