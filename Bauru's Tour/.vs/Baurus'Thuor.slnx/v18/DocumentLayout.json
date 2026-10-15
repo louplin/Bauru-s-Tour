@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\Baurus\u0027Thuor\\",
+  "WorkspaceRootPath": "C:\\Users\\26110323\\Desktop\\esses\\Bauru\u0027s Tour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\matheus\\desktop\\baurus\u0027thuor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\26110323\\desktop\\esses\\bauru\u0027s tour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\26110323\\desktop\\esses\\bauru\u0027s tour\\formbusca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:formbusca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,18 +25,27 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBusca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\26110323\\Desktop\\esses\\Bauru\u0027s Tour\\FormBusca.Designer.cs",
+              "RelativeDocumentMoniker": "FormBusca.Designer.cs",
+              "ToolTip": "C:\\Users\\26110323\\Desktop\\esses\\Bauru\u0027s Tour\\FormBusca.Designer.cs",
+              "RelativeToolTip": "FormBusca.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:00:54.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\Baurus\u0027Thuor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\26110323\\Desktop\\esses\\Bauru\u0027s Tour\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Desktop\\Baurus\u0027Thuor\\Program.cs",
+              "ToolTip": "C:\\Users\\26110323\\Desktop\\esses\\Bauru\u0027s Tour\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAgwBUBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T23:37:26.584Z",
               "EditorCaption": ""

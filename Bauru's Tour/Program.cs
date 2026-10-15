@@ -1,3 +1,4 @@
+using Bauru_s_Tour;
 using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -18,34 +19,45 @@ namespace BauruTour
 
     public class TelaInicialForm : Form
     {
-        // O desenho foi feito em um espaço de 380 x 290 e é ampliado por S.
-        // Com S = 2 a área do formulário fica 760 x 580.
-        const float S = 2f;
+        // Tamanho do espaço em que o desenho foi criado
+        const float LARGURA = 380f;
+        const float ALTURA = 290f;
+
+        // Escala e deslocamento são calculados conforme o tamanho da tela
+        float S = 2f;
+        float offX = 0f;
+        float offY = 0f;
 
         static readonly Color Ouro = Color.FromArgb(201, 169, 106);
         static readonly Color Branco = Color.FromArgb(243, 244, 246);
 
         readonly Button btnComecar;
 
+        // Fonte criada por nós (somente ela pode receber Dispose)
+        Font fonteBotao;
+
         public TelaInicialForm()
         {
             Text = "Bauru's Tour";
-            ClientSize = new Size((int)(380 * S), (int)(290 * S));
-            StartPosition = FormStartPosition.CenterScreen;
-            FormBorderStyle = FormBorderStyle.FixedSingle;
-            MaximizeBox = false;
+            FormBorderStyle = FormBorderStyle.None;     // sem bordas
+            WindowState = FormWindowState.Maximized;    // tela cheia
             DoubleBuffered = true;
+            ResizeRedraw = true;                        // repinta ao mudar de tamanho
             BackColor = Color.FromArgb(4, 7, 13);
+
+            // Esc fecha o programa (já que não há botão de fechar)
+            KeyPreview = true;
+            KeyDown += (s, e) =>
+            {
+                if (e.KeyCode == Keys.Escape) Close();
+            };
 
             btnComecar = new Button
             {
                 Text = "Começar minha jornada  →",
-                Location = new Point((int)(100.5f * S), (int)(132.5f * S)),
-                Size = new Size((int)(179 * S), (int)(34 * S)),
                 FlatStyle = FlatStyle.Flat,
                 BackColor = Color.FromArgb(10, 18, 34),
                 ForeColor = Branco,
-                Font = new Font("Segoe UI", 13f * S, FontStyle.Regular, GraphicsUnit.Pixel),
                 Cursor = Cursors.Hand,
                 UseVisualStyleBackColor = false
             };
@@ -55,16 +67,51 @@ namespace BauruTour
             btnComecar.FlatAppearance.MouseDownBackColor = Color.FromArgb(24, 36, 64);
             btnComecar.Click += BtnComecar_Click;
             Controls.Add(btnComecar);
+
+            Reajustar();
+        }
+
+        protected override void OnResize(EventArgs e)
+        {
+            base.OnResize(e);
+            Reajustar();
+        }
+
+        protected override void OnFormClosed(FormClosedEventArgs e)
+        {
+            base.OnFormClosed(e);
+            fonteBotao?.Dispose();
+            fonteBotao = null;
+        }
+
+        // Recalcula escala, centralização e posição/tamanho/fonte do botão
+        void Reajustar()
+        {
+            if (btnComecar == null) return;
+            if (ClientSize.Width <= 0 || ClientSize.Height <= 0) return; // minimizado
+
+            S = Math.Min(ClientSize.Width / LARGURA, ClientSize.Height / ALTURA);
+            offX = (ClientSize.Width - LARGURA * S) / 2f;
+            offY = (ClientSize.Height - ALTURA * S) / 2f;
+
+            btnComecar.Location = new Point((int)(offX + 100.5f * S), (int)(offY + 132.5f * S));
+            btnComecar.Size = new Size((int)(179 * S), (int)(34 * S));
+
+            // Cria a nova fonte, entrega ao botão e só então descarta a anterior DELA.
+            // A fonte padrão do sistema nunca é descartada.
+            var novaFonte = new Font("Segoe UI", 13f * S, FontStyle.Regular, GraphicsUnit.Pixel);
+            btnComecar.Font = novaFonte;
+            fonteBotao?.Dispose();
+            fonteBotao = novaFonte;
+
+            Invalidate();
         }
 
         void BtnComecar_Click(object sender, EventArgs e)
         {
-            // Aqui você abre a próxima tela, por exemplo:
-            // var tela = new PontosTuristicosForm();
-            // tela.Show();
-            // Hide();
-            MessageBox.Show("Aqui vai abrir a tela com os pontos turísticos de Bauru.",
-                            "Bauru's Tour");
+            var tela = new FormBusca();
+            tela.Show();
+            Hide();
         }
 
         protected override void OnPaint(PaintEventArgs e)
@@ -74,25 +121,26 @@ namespace BauruTour
             g.SmoothingMode = SmoothingMode.AntiAlias;
             g.TextRenderingHint = System.Drawing.Text.TextRenderingHint.AntiAliasGridFit;
 
-            g.ScaleTransform(S, S);
-            g.TranslateTransform(0, -30);
+            if (ClientSize.Width <= 0 || ClientSize.Height <= 0) return;
 
-            DesenharFundo(g);
-            DesenharEstrelas(g);
-            DesenharTerra(g);
-            DesenharTextos(g);
-        }
-
-        void DesenharFundo(Graphics g)
-        {
+            // 1) Fundo na tela inteira, ANTES das transformações
             using (var b = new LinearGradientBrush(
-                new RectangleF(0, 30, 380, 290),
+                ClientRectangle,
                 Color.FromArgb(4, 7, 13),
                 Color.FromArgb(10, 18, 34),
                 LinearGradientMode.Vertical))
             {
-                g.FillRectangle(b, 0, 30, 380, 290);
+                g.FillRectangle(b, ClientRectangle);
             }
+
+            // 2) Centraliza e amplia o desenho (a ordem importa)
+            g.TranslateTransform(offX, offY);
+            g.ScaleTransform(S, S);
+            g.TranslateTransform(0, -30);
+
+            DesenharEstrelas(g);
+            DesenharTerra(g);
+            DesenharTextos(g);
         }
 
         void DesenharEstrelas(Graphics g)
@@ -271,6 +319,19 @@ namespace BauruTour
                     g.DrawString(texto[i].ToString(), fonte, pincel, x, y, sf);
                     x += larguras[i] + espaco;
                 }
+            }
+        }
+
+        // Não é mais usado (o fundo agora é pintado no OnPaint), mas pode ficar aqui.
+        void DesenharFundo(Graphics g)
+        {
+            using (var b = new LinearGradientBrush(
+                new RectangleF(0, 30, 380, 290),
+                Color.FromArgb(4, 7, 13),
+                Color.FromArgb(10, 18, 34),
+                LinearGradientMode.Vertical))
+            {
+                g.FillRectangle(b, 0, 30, 380, 290);
             }
         }
     }

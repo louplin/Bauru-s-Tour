@@ -27,3 +27,21 @@ C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.pdb
 C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'Thuor.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\ref\Baurus'Thuor.dll
 C:\Users\Matheus\Desktop\Baurus'Thuor\obj\Debug\net10.0-windows\Baurus'T.6061DE35.Up2Date
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Bauru_s_Tour.FormBusca.resources
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.csproj.GenerateResource.cache
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfoInputs.cache
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfo.cs
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.csproj.CoreCompileInputs.cache
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.sourcelink.json
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\refint\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\26110323\Desktop\esses\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.exe
+C:\Users\26110323\Desktop\esses\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.deps.json
+C:\Users\26110323\Desktop\esses\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.runtimeconfig.json
+C:\Users\26110323\Desktop\esses\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\esses\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.genruntimeconfig.cache
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\ref\Baurus'Thuor.dll
+C:\Users\26110323\Desktop\esses\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'T.6061DE35.Up2Date

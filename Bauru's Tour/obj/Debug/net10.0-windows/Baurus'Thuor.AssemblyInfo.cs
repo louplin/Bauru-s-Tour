@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baurus\'Thuor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9397fd6f37c4c98992ca40923878367588ab964c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baurus\'Thuor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baurus\'Thuor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
