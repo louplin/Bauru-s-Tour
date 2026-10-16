@@ -142,29 +142,18 @@ cd Bauru-s-Tour
 
 ## 👨‍💻 Autores
 
-Feito com 💜 por
+Feito com 💜 por:
 
-**Vinicius Cury**
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciuscury147-spec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+| 👤 **Vinicius Cury** | 👤 **Matheus Faria** | 👤 **Luiz Otávio Pavanato** | 👤 **Gustavo** |
+|:---:|:---:|:---:|:---:|
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/viniciuscury147-spec) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/louplin) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/luispavanato) | *em breve* |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cury-258896324/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqfaria/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ot%C3%A1vio-capoani-pavanato-613b1a378) | *em breve* |
 
-**Luis Otavio P.**
+</div>
 
-[![GitHub](https://github.com/luispavanato)
-[![LinkedIn](https://www.linkedin.com/in/luis-otávio-capoani-pavanato-613b1a378?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-
-**Mathues Faria.
-
-[![GitHub](https://github.com/louplin)
-[![LinkedIn](https://www.linkedin.com/in/matheusqfaria/)
-
-**Gustavo**
-
-[![GitHub]
-[![LinkedIn]
-
-
+---
 
 <div align="center">
 
