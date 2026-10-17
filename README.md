@@ -146,10 +146,10 @@ Feito com 💜 por:
 
 <div align="center">
 
-| 👤 **Vinicius Cury** | 👤 **Matheus Faria** | 👤 **Luiz Otávio Pavanato** | 👤 **Gustavo** |
+| 👤 **Vinicius Cury** | 👤 **Matheus Faria** | 👤 **Luiz Otávio Pavanato** | 👤 **Gustavo Fontanez** |
 |:---:|:---:|:---:|:---:|
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/viniciuscury147-spec) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/louplin) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/luispavanato) | *em breve* |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cury-258896324/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqfaria/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ot%C3%A1vio-capoani-pavanato-613b1a378) | *em breve* |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/viniciuscury147-spec) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/louplin) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/luispavanato) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gustavohfontanez2007-lgtm) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cury-258896324/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusqfaria/) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ot%C3%A1vio-capoani-pavanato-613b1a378) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fontanez-177512403) |
 
 </div>
 
