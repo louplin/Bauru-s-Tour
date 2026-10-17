@@ -41,10 +41,9 @@
             lblTitulo.BackColor = Color.Transparent;
             lblTitulo.Font = new Font("Segoe UI Semibold", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblTitulo.ForeColor = SystemColors.ButtonFace;
-            lblTitulo.Location = new Point(493, 0);
-            lblTitulo.Margin = new Padding(4, 0, 4, 0);
+            lblTitulo.Location = new Point(345, 0);
             lblTitulo.Name = "lblTitulo";
-            lblTitulo.Size = new Size(441, 96);
+            lblTitulo.Size = new Size(294, 65);
             lblTitulo.TabIndex = 1;
             lblTitulo.Text = "Bauru's Tour";
             lblTitulo.Click += lblTitulo_Click;
@@ -55,10 +54,9 @@
             lblSubtitulo.BackColor = Color.Transparent;
             lblSubtitulo.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblSubtitulo.ForeColor = Color.LightYellow;
-            lblSubtitulo.Location = new Point(486, 93);
-            lblSubtitulo.Margin = new Padding(4, 0, 4, 0);
+            lblSubtitulo.Location = new Point(340, 56);
             lblSubtitulo.Name = "lblSubtitulo";
-            lblSubtitulo.Size = new Size(466, 45);
+            lblSubtitulo.Size = new Size(305, 30);
             lblSubtitulo.TabIndex = 2;
             lblSubtitulo.Text = "Qual área vamos explorar hoje?";
             // 
@@ -68,11 +66,10 @@
             txtBusca.BackColor = Color.FromArgb(26, 16, 51);
             txtBusca.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             txtBusca.ForeColor = SystemColors.Window;
-            txtBusca.Location = new Point(331, 148);
-            txtBusca.Margin = new Padding(4, 5, 4, 5);
+            txtBusca.Location = new Point(232, 89);
             txtBusca.Name = "txtBusca";
             txtBusca.PlaceholderText = "Buscar Pontos Turisticos...";
-            txtBusca.Size = new Size(741, 45);
+            txtBusca.Size = new Size(520, 33);
             txtBusca.TabIndex = 3;
             txtBusca.TextChanged += txtBusca_TextChanged;
             // 
@@ -83,10 +80,9 @@
             btnBusca.FlatAppearance.BorderSize = 0;
             btnBusca.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnBusca.ForeColor = SystemColors.ButtonHighlight;
-            btnBusca.Location = new Point(1083, 145);
-            btnBusca.Margin = new Padding(4, 5, 4, 5);
+            btnBusca.Location = new Point(758, 87);
             btnBusca.Name = "btnBusca";
-            btnBusca.Size = new Size(171, 60);
+            btnBusca.Size = new Size(120, 36);
             btnBusca.TabIndex = 4;
             btnBusca.Text = "Buscar";
             btnBusca.UseVisualStyleBackColor = false;
@@ -99,25 +95,26 @@
             lstResultados.Font = new Font("Segoe UI", 12F);
             lstResultados.ForeColor = SystemColors.Window;
             lstResultados.FormattingEnabled = true;
-            lstResultados.Location = new Point(331, 201);
+            lstResultados.Location = new Point(232, 121);
+            lstResultados.Margin = new Padding(2, 2, 2, 2);
             lstResultados.Name = "lstResultados";
-            lstResultados.Size = new Size(646, 288);
+            lstResultados.Size = new Size(452, 168);
             lstResultados.TabIndex = 5;
             lstResultados.Visible = false;
             lstResultados.SelectedIndexChanged += lstResultados_SelectedIndexChanged;
             // 
             // FormBusca
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Blue;
-            ClientSize = new Size(1406, 1018);
+            BackgroundImage = Baurus_Thuor.Properties.Resources.ceu_estrelado_v2;
+            ClientSize = new Size(984, 611);
             Controls.Add(lstResultados);
             Controls.Add(btnBusca);
             Controls.Add(txtBusca);
             Controls.Add(lblSubtitulo);
             Controls.Add(lblTitulo);
-            Margin = new Padding(4, 5, 4, 5);
             Name = "FormBusca";
             Text = "Bauru's Tour ";
             Load += FormBusca_Load;

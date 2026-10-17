@@ -63,3 +63,24 @@ C:\Users\gabri\source\repos\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\
 C:\Users\gabri\source\repos\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.genruntimeconfig.cache
 C:\Users\gabri\source\repos\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\ref\Baurus'Thuor.dll
 C:\Users\gabri\source\repos\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'T.6061DE35.Up2Date
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.exe
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.deps.json
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.runtimeconfig.json
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.runtimeconfig.dev.json
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\bin\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Bauru_s_Tour.FormBusca.resources
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.csproj.GenerateResource.cache
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfoInputs.cache
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.AssemblyInfo.cs
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.sourcelink.json
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.dll
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\refint\Baurus'Thuor.dll
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.pdb
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'Thuor.genruntimeconfig.cache
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\ref\Baurus'Thuor.dll
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus'T.6061DE35.Up2Date
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus_Thuor.Properties.Resources.resources
+C:\Users\Gustavo Fontanez\Documents\GitHub\Bauru-s-Tour\Bauru-s-Tour\Bauru's Tour\obj\Debug\net10.0-windows\Baurus_Thuor.Tela_Busca.Tela_Detalhes.FormDetalhe.resources

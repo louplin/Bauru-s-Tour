@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj": {}
+    "C:\\Users\\Gustavo Fontanez\\Documents\\GitHub\\Bauru-s-Tour\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj": {
+    "C:\\Users\\Gustavo Fontanez\\Documents\\GitHub\\Bauru-s-Tour\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo Fontanez\\Documents\\GitHub\\Bauru-s-Tour\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj",
         "projectName": "Baurus'Thuor",
-        "projectPath": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru's Tour\\obj\\",
+        "projectPath": "C:\\Users\\Gustavo Fontanez\\Documents\\GitHub\\Bauru-s-Tour\\Bauru-s-Tour\\Bauru's Tour\\Baurus'Thuor.csproj",
+        "packagesPath": "C:\\Users\\Gustavo Fontanez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo Fontanez\\Documents\\GitHub\\Bauru-s-Tour\\Bauru-s-Tour\\Bauru's Tour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gustavo Fontanez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,7 +41,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0-windows": {
@@ -66,7 +66,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.2.26504.105/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

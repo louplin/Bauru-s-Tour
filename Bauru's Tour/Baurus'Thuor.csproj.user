@@ -4,5 +4,8 @@
     <Compile Update="Tela_Busca\FormBusca.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Tela_detalhe\FormDetalhe.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
