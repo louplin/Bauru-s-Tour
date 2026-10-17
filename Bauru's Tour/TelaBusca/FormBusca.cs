@@ -1,10 +1,10 @@
-using BauruThur.Models;
+using BauruTuor.Models;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Bauru_s_Tour
+namespace BauruTour
 {
     public partial class FormBusca : Form
     {

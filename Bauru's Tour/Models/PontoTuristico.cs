@@ -1,4 +1,4 @@
-namespace BauruThur.Models
+namespace BauruTuor.Models
 {
     public class PontoTuristico
     {

@@ -1,7 +1,7 @@
 using System.Text.Json;
-using BauruThur.Models;
+using BauruTuor.Models;
 
-namespace BauruThur.Data
+namespace BauruTuor.Data
 {
     public class PontoTuristicoRepository
     {

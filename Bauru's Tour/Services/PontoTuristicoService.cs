@@ -1,7 +1,7 @@
-﻿using BauruThur.Data;
-using BauruThur.Models;
+﻿using BauruTuor.Data;
+using BauruTuor.Models;
 
-namespace BauruThur.Services
+namespace BauruTuor.Services
 {
     public class PontoTuristicoService
     {
