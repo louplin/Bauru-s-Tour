@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\telainicial\\favoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:telainicial\\favoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\telabusca\\formbusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:telabusca\\formbusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\telabusca\\formbusca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:telabusca\\formbusca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\telabusca\\formbusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:telabusca\\formbusca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\models\\pontoturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:models\\pontoturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\data\\pontoturisticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:data\\pontoturisticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\services\\pontoturisticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:services\\pontoturisticoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|c:\\users\\gabri\\source\\repos\\bauru-s-tour\\bauru\u0027s tour\\services\\favoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92864A3-A0FF-BAD8-6273-0FA94EB9217C}|Baurus\u0027Thuor.csproj|solutionrelative:services\\favoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,71 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FavoritosService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaInicial\\FavoritosService.cs",
-              "RelativeDocumentMoniker": "TelaInicial\\FavoritosService.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaInicial\\FavoritosService.cs",
-              "RelativeToolTip": "TelaInicial\\FavoritosService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Services\\FavoritosService.cs",
+              "RelativeDocumentMoniker": "Services\\FavoritosService.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Services\\FavoritosService.cs",
+              "RelativeToolTip": "Services\\FavoritosService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T22:44:24.561Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormBusca.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaBusca\\FormBusca.Designer.cs",
-              "RelativeDocumentMoniker": "TelaBusca\\FormBusca.Designer.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaBusca\\FormBusca.Designer.cs",
-              "RelativeToolTip": "TelaBusca\\FormBusca.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T23:31:14.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormBusca.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaBusca\\FormBusca.cs",
-              "RelativeDocumentMoniker": "TelaBusca\\FormBusca.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaBusca\\FormBusca.cs [Projeto]",
-              "RelativeToolTip": "TelaBusca\\FormBusca.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T23:31:11.694Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PontoTuristicoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Data\\PontoTuristicoRepository.cs",
-              "RelativeDocumentMoniker": "Data\\PontoTuristicoRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Data\\PontoTuristicoRepository.cs",
-              "RelativeToolTip": "Data\\PontoTuristicoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T23:08:28.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PontoTuristico.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Models\\PontoTuristico.cs",
-              "RelativeDocumentMoniker": "Models\\PontoTuristico.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Models\\PontoTuristico.cs",
-              "RelativeToolTip": "Models\\PontoTuristico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T23:07:48.316Z",
               "EditorCaption": ""
             },
             {
@@ -115,15 +48,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PontoTuristicoService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Services\\PontoTuristicoService.cs",
-              "RelativeDocumentMoniker": "Services\\PontoTuristicoService.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\Services\\PontoTuristicoService.cs",
-              "RelativeToolTip": "Services\\PontoTuristicoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormBusca.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaBusca\\FormBusca.cs",
+              "RelativeDocumentMoniker": "TelaBusca\\FormBusca.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Bauru-s-Tour\\Bauru\u0027s Tour\\TelaBusca\\FormBusca.cs*",
+              "RelativeToolTip": "TelaBusca\\FormBusca.cs*",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwGcAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T22:44:50.955Z",
+              "WhenOpened": "2026-10-17T23:55:47.73Z",
               "EditorCaption": ""
             }
           ]

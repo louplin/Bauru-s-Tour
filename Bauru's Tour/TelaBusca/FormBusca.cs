@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
+using BaurusTour.Services;
 
 namespace BauruTour
 {
@@ -99,8 +100,10 @@ namespace BauruTour
 
         private void FormBusca_Load(object sender, EventArgs e)
         {
-
+            var teste = new Favoritos();
+            MessageBox.Show("É favorito? " + teste.EhFavorito("Jardim Botânico"));
         }
+        
 
         private void txtBusca_TextChanged(object sender, EventArgs e)
         {
