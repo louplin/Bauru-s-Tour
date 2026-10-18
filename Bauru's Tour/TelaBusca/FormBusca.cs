@@ -100,8 +100,7 @@ namespace BauruTour
 
         private void FormBusca_Load(object sender, EventArgs e)
         {
-            var teste = new Favoritos();
-            MessageBox.Show("É favorito? " + teste.EhFavorito("Jardim Botânico"));
+
         }
         
 
