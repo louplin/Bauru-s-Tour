@@ -26,7 +26,7 @@ namespace BaurusTour.Services
             }
             catch (JsonException)
             {
-                // Se o arquivo json é estragado segue 
+                // Se o arquivo json é estragado a lista começa vazia.
             }
         }
         
