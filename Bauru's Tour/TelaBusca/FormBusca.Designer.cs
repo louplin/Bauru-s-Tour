@@ -1,4 +1,4 @@
-﻿namespace Bauru_s_Tour
+﻿namespace BauruTour
 {
     partial class FormBusca
     {

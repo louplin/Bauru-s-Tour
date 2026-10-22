@@ -1,10 +1,10 @@
-using Bauru_s_Tour;
+using BauruTour;
 using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace BauruTour
+namespace BaurusTour.TeLaInicial
 {
     static class Program
     {
